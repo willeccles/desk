@@ -60,6 +60,12 @@ a:visited:hover {
   color: floralwhite;
 }
 
+header {
+  padding-bottom: 7px;
+  border-bottom: solid 1px #808080;
+  margin-bottom: 7px;
+}
+
 hr {
   color: #808080;
   background: #808080;
