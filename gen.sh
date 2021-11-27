@@ -18,4 +18,4 @@ done
 printf "generating index.html\n"
 sort -r .contents \
   | awk 'BEGIN {FS="@@"} {print $1" - <a href=\"p/"$3"\">"$2"</a><br/>"}' \
-  | cat gen/index_pre.html - gen/index_post.html >test_index.html
+  | cat gen/index_pre.html - gen/index_post.html >index.html
