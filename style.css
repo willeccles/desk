@@ -27,7 +27,7 @@ blockquote {
 
 a {
   color: #353535;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover {
@@ -43,7 +43,6 @@ a:hover {
 
   a {
     color: floralwhite;
-    text-decoration: underline;
   }
 
   a:hover {
