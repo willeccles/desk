@@ -51,6 +51,15 @@ a:hover {
   color: floralwhite;
 }
 
+a:visited {
+  color: grey;
+}
+
+a:visited:hover {
+  background-color: grey;
+  color: floralwhite;
+}
+
 hr {
   color: #808080;
   background: #808080;
@@ -68,6 +77,15 @@ hr {
 
   a:hover {
     background-color: floralwhite;
+    color: #353535;
+  }
+
+  a:visited {
+    color: gainsboro;
+  }
+
+  a:visited:hover {
+    background-color: gainsboro;
     color: #353535;
   }
 }
