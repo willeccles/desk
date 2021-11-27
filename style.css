@@ -47,7 +47,7 @@ a {
 
 a:hover {
   background-color: #353535;
-  color: snow;
+  color: floralwhite;
 }
 
 @media (prefers-color-scheme: dark) {
