@@ -17,19 +17,20 @@ h1 {
   margin-bottom: 0;
 }
 
+h2 {
+  margin: 0;
+}
+
 h5 {
-  margin-top: 0;
-  margin-bottom: 0;
+  margin: 0;
 }
 
 p {
   text-indent: 1.5em;
   /* TODO check how this looks with real content */
-  /*
   text-align: justify;
   word-wrap: break-word;
   text-justify: inter-word;
-  */
 }
 
 blockquote {
@@ -48,6 +49,11 @@ a {
 a:hover {
   background-color: #353535;
   color: floralwhite;
+}
+
+hr {
+  color: #808080;
+  background: #808080;
 }
 
 @media (prefers-color-scheme: dark) {
