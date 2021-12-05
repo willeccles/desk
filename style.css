@@ -69,6 +69,11 @@ header {
 hr {
   color: #808080;
   background: #808080;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 1px;
+  border: none;
 }
 
 @media (prefers-color-scheme: dark) {
