@@ -61,9 +61,9 @@ promote, and donate to charities to help those in need.
 
 Next time you find yourself being drawn to an argument online or watching
 a negative video, consider clicking away or trying to remain positive rather
-than arguing. A positive attitude can be infectious! If we can all start to do
-this more, the internet can become a truly wonderful place once again. Emailing
-your friends is a fun way to keep in touch with one another and feels much more
+than arguing. A positive attitude can be infectious! If we all start to do this
+more, the internet can become a truly wonderful place once again. Emailing your
+friends is a fun way to keep in touch with one another and feels much more
 "personal" than using a chat service, so consider giving that a try as well!
 There is so much more to the internet than the negativity we always see and hear
 around us. We should all work together to make the internet a better and more
