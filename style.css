@@ -27,10 +27,6 @@ h5 {
 
 p {
   text-indent: 1.5em;
-  /* TODO check how this looks with real content */
-  text-align: justify;
-  word-wrap: break-word;
-  text-justify: inter-word;
 }
 
 blockquote {
